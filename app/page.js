@@ -1,5 +1,6 @@
-import Button from "@/components/Button";
+import { Button } from '@/components/ui/button'; 
+
 
 export default function Home() {
-  return <Button>hey there</Button>;
+  return <Button variant="destructive">hey there</Button>;
 }
