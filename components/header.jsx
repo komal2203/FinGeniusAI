@@ -51,7 +51,7 @@ const Header = () => {
             </SignInButton>{" "}
             {/* <SignUpButton /> */}
           </SignedOut>
-          <SignedIn>
+          <SignedIn> 
             <UserButton
               appearance={{
                 elements: {
