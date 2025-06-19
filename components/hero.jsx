@@ -7,16 +7,16 @@ const HeroSection = () => {
   return (
     <div className="pb-20 px-4">
       <div className="container mx-auto text-center ">
-        <h1 className="text-5xl md:text-8xl lg:text-[105px] pb-6 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-transparent bg-clip-text tracking-tighter">
-          Manage Your Finances <br /> with Intelligence
+        <h1 className="text-5xl md:text-8xl lg:text-[105px] pb-6 bg-gradient-to-br from-blue-700  to-green-600 text-transparent bg-clip-text tracking-tighter font-bold pr-2">
+          Your Financial Co‑Pilot <br /> Powered by AI
         </h1>
-        <p>
+        <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
           FinGeniusAI helps you make smarter money decisions with AI-powered
           insights and personalized financial advice. Whether you're tracking
           expenses, budgeting, or planning for the future, we've got you
           covered.
         </p>
-        <div>
+        <div className="flex justify-center space-x-4">
           <Link href="/dashboard">
             <Button size="lg" className="px-8">
               Get Started
@@ -29,10 +29,10 @@ const HeroSection = () => {
           </Link>
         </div>
 
-        <div>
+        <div className="hero-image-wrapper">
           <div>
             <Image
-              src="/banner.jpeg"
+              src="/banner1.avif"
               width={1280}
               height={720}
               alt="Dashboard preview"
