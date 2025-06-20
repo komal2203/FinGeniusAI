@@ -32,7 +32,7 @@ const HeroSection = () => {
         <div className="hero-image-wrapper">
           <div>
             <Image
-              src="/banner1.avif"
+              src="/banner2.avif"
               width={1280}
               height={720}
               alt="Dashboard preview"
