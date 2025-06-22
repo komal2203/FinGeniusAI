@@ -14,9 +14,8 @@
 /coverage
 
 # Inngest dev environment
-/inngest
-/inggest/
 /main.db
+.inngest/
 
 
 # next.js
