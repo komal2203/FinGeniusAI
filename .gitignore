@@ -13,6 +13,11 @@
 # testing
 /coverage
 
+# Inngest dev environment
+/inngest/
+/main.db
+
+
 # next.js
 /.next/
 /out/
