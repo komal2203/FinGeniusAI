@@ -14,7 +14,7 @@
 /coverage
 
 # Inngest dev environment
-/inngest/
+/inngest
 /main.db
 
 
