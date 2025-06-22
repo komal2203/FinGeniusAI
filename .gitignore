@@ -15,6 +15,7 @@
 
 # Inngest dev environment
 /inngest
+/inggest/
 /main.db
 
 
