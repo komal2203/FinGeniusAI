@@ -50,7 +50,7 @@ export function AccountCard({ account }) {
   }, [error]);
 
   return (
-    <Card className="hover:shadow-md transition-shadow group relative">
+    <Card className="hover:shadow-md transition-shadow bg-gradient-to-br from-blue-50  to-purple-50 group relative">
       <Link href={`/account/${id}`}>
         <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
           <CardTitle className="text-sm font-medium capitalize">
@@ -60,6 +60,7 @@ export function AccountCard({ account }) {
             checked={isDefault}
             onClick={handleDefaultChange}
             disabled={updateDefaultLoading}
+            className={isDefault ? "bg-gradient-to-br from-blue-700 to-purple-500" : ""}
           />
         </CardHeader>
         <CardContent>

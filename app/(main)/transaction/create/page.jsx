@@ -14,7 +14,7 @@ export default async function AddTransactionPage({ searchParams }) {
     }
 
     return (
-        <div className="max-w-3xl mx-auto px-5">
+        <div className="max-w-3xl mx-auto p-8 bg-gradient-to-br from-blue-100 to-purple-100 rounded-2xl">
             <div className="flex justify-center md:justify-normal mb-8">
                 <h1 className="text-5xl gradient-title ">{editId ? "Edit" : "Add"} Transaction</h1>
             </div>

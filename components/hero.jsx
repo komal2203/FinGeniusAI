@@ -30,15 +30,34 @@ const HeroSection = () => {
         </div>
 
         <div className="hero-image-wrapper pt-6">
-          <div>
-            <Image
-              src="/banner2.avif"
-              width={1100}
-              height={620}
-              alt="Dashboard preview"
-              className="rounded-lg shadow-2xl border mx-auto"
-              priority
-            />
+          <div className="grid grid-cols-3 gap-4">
+            <div className="h-[100%] col-span-2 w-full">
+              <Image
+                src="/hero1.avif"
+                width={1100}
+                height={620}
+                alt="Dashboard preview"
+                className="rounded-lg shadow-2xl hover:brightness-120  border mx-auto"
+                priority
+              /></div>
+            <div className="flex flex-col justify-between h-full w-full">
+              <Image
+                src="/hero2.png"
+                width={1100}
+                height={620}
+                alt="Dashboard preview"
+                className="rounded-lg hover:brightness-120 shadow-2xl  border mx-auto h-[48%]"
+                priority
+              />
+              <Image
+                src="/hero3.jpg"
+                width={1100}
+                height={620}
+                alt="Dashboard preview"
+                className="rounded-lg hover:brightness-105 shadow-2xl  border mx-auto h-[48%]"
+                priority
+              />
+            </div>
           </div>
         </div>
       </div>
