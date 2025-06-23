@@ -90,7 +90,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 I'm always open to collaborating on exciting projects, sharing ideas, or just chatting tech!
 
 - 🔗 LinkedIn: [linkedin.com/in/komalmeena2203](https://www.linkedin.com/in/komalmeena2203/)
-- 📧 Email: **komalmeena220303@gmail.com**
+- 📧 Email: [komalmeena220303@gmail.com](mailto:komalmeena220303@gmail.com)
 
 ---
 
