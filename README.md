@@ -1,4 +1,4 @@
-# FinGeniusAI
+# 💻 FinGeniusAI
 
 FinGeniusAI is a modern, AI-powered personal finance management web application. It empowers users to track income, expenses, budgets, and accounts with an intuitive dashboard, smart analytics, and a seamless user experience.
 
@@ -53,20 +53,6 @@ FinGeniusAI is a modern, AI-powered personal finance management web application.
 - **Icons:** Lucide Icons  
 - **Validation:** Zod
 
-## 💻Project Structure
-
-FinGeniusAI/
-├── app/                  # Next.js App Router
-│   ├── api/              # API routes
-│   ├── components/       # Shared UI components
-│   └── page.jsx          # Main page
-├── prisma/               # Prisma schema & migrations
-├── public/               # Static assets
-├── styles/               # Global CSS and Tailwind configs
-├── .env                  # Environment variables
-├── next.config.js        # Next.js configuration
-├── package.json
-└── README.md
 
 ## ✨ Usage
 
