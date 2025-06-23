@@ -26,7 +26,7 @@ export default function Home() {
           <h2 className="text-3xl font-bold bg-gradient-to-br from-blue-700  to-purple-500 text-transparent bg-clip-text  text-center mb-12">Everything you need to manage your finances</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {featuresData.map((feature, index) => (
-              <Card key={index} className="p-6  transition-transform duration-200 ease-in hover:scale-105">
+              <Card key={index} className="p-6 bg-gradient-to-br from-blue-100 to-purple-100  transition-transform duration-200 ease-in hover:scale-105">
                 <CardContent className="space-y-4 pt-4">
                   {feature.icon}
                   <h3 className="text-xl font-semibold">{feature.title}</h3>
@@ -79,9 +79,9 @@ export default function Home() {
       <section className="py-20 bg-gradient-to-br from-blue-100  to-purple-100 ">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-center mb-4">Ready to Take Control of Your Finances?</h2>
-          <p className="bg-gradient-to-br from-blue-700  to-purple-500 text-transparent bg-clip-text  mb-8 font-semibold max-w-2xl mx-auto">Join thousands of users who are already managing their finances smarter with FinGeniusAI</p>
+          <p className="bg-gradient-to-br from-blue-700  to-purple-500 text-transparent bg-clip-text mb-8 font-semibold max-w-2xl mx-auto">Join thousands of users who are already managing their finances smarter with FinGeniusAI</p>
           <Link href="/dashboard">
-            <Button size="lg" className="transition-transform duration-300 bg-gradient-to-br from-blue-700  to-purple-500 text-white hover:brightness-115 animate-bounce">
+            <Button size="lg" className="bg-gradient-to-br from-blue-700  to-purple-500 text-white  hover:bg-blue-50 animate-bounce">
               Start Free Trial
             </Button>
           </Link>
