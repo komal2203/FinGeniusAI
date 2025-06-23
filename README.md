@@ -85,9 +85,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## 📧 Contact
+## 📬 Let's Connect!
 
-For support or business inquiries, please contact: [your-email@example.com]
+I'm always open to collaborating on exciting projects, sharing ideas, or just chatting tech!
+
+- 🔗 LinkedIn: [linkedin.com/in/komalmeena2203](https://www.linkedin.com/in/komalmeena2203/)
+- 📧 Email: **komalmeena220303@gmail.com**
 
 ---
 
