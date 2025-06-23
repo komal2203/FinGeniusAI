@@ -74,8 +74,8 @@ FinGeniusAI is a modern, AI-powered personal finance management web application.
    - **Account - Transactions Overview**<br><br>![Category Distribution Bar Graph](https://github.com/komal2203/FinGeniusAI/blob/main/ui_images/account-transaction-overview.png)
    - **Account - Transactions Table**<br><br>![ Supplier By Amount Distribution Bar Graph](https://github.com/komal2203/FinGeniusAI/blob/main/ui_images/account-transaction-table.png)
    - **Add Transaction Form**<br><br>![Supplier Distribution Pie Chart](https://github.com/komal2203/FinGeniusAI/blob/main/ui_images/add-transaction-form.png)
- - **Monthly Report**<br><br>![Supplier Distribution Pie Chart](https://github.com/komal2203/FinGeniusAI/blob/main/ui_images/monthly-financial-report.png)
-- **AI Insight Report**<br><br>![Supplier Distribution Pie Chart](https://github.com/komal2203/FinGeniusAI/blob/main/ui_images/ai-insight-report.png)
+   - **Monthly Report**<br><br>![Supplier Distribution Pie Chart](https://github.com/komal2203/FinGeniusAI/blob/main/ui_images/monthly-financial-report.png)
+   - **AI Insight Report**<br><br>![Supplier Distribution Pie Chart](https://github.com/komal2203/FinGeniusAI/blob/main/ui_images/ai-insight-report.png)
    - **Budget Alert**<br><br>![Supplier Distribution Pie Chart](https://github.com/komal2203/FinGeniusAI/blob/main/ui_images/budget-alert.png)
  
 
