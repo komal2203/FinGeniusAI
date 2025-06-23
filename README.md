@@ -2,7 +2,6 @@
 
 FinGeniusAI is a modern, AI-powered personal finance management web application. It empowers users to track income, expenses, budgets, and accounts with an intuitive dashboard, smart analytics, and a seamless user experience.
 
----
 
 ## 🚀 Features
 
