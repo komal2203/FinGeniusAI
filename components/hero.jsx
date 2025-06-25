@@ -22,11 +22,11 @@ const HeroSection = () => {
               Get Started
             </Button>
           </Link>
-          <Link href="/dashboard">
+          {/* <Link href="/dashboard">
             <Button size="lg" variant="outline" className="px-8">
               Watch Demo
             </Button>
-          </Link>
+          </Link> */}
         </div>
 
         <div className="hero-image-wrapper pt-6">
