@@ -1,13 +1,17 @@
-# FinGeniusAI
+# 💻 FinGeniusAI
 
 FinGeniusAI is a modern, AI-powered personal finance management web application. It empowers users to track income, expenses, budgets, and accounts with an intuitive dashboard, smart analytics, and a seamless user experience.
 
----
 
 ## 🚀 Features
 
-- **User Authentication**  
-  Secure sign-up and sign-in with protected routes.
+
+- **User Authentication (Clerk)**  
+  Secure sign-up and sign-in with protected routes, powered by [Clerk](https://clerk.com/) for seamless and secure user management.
+- **Security & Bot Protection (Arcjet)**  
+  Advanced security and bot protection for your app, leveraging [Arcjet](https://arcjet.com/) to keep your data and users safe.
+- **Background Jobs & Workflows (Inngest)**  
+  Reliable background jobs, event-driven workflows, and async processing using [Inngest](https://www.inngest.com/) for scalable automation and integrations.
 - **Dashboard Overview**  
   Visual summary of accounts, budgets, income, and expenses.
 - **Account Management**  
@@ -49,20 +53,6 @@ FinGeniusAI is a modern, AI-powered personal finance management web application.
 - **Icons:** Lucide Icons  
 - **Validation:** Zod
 
-## 💻Project Structure
-
-FinGeniusAI/
-├── app/                  # Next.js App Router
-│   ├── api/              # API routes
-│   ├── components/       # Shared UI components
-│   └── page.jsx          # Main page
-├── prisma/               # Prisma schema & migrations
-├── public/               # Static assets
-├── styles/               # Global CSS and Tailwind configs
-├── .env                  # Environment variables
-├── next.config.js        # Next.js configuration
-├── package.json
-└── README.md
 
 ## ✨ Usage
 
@@ -78,15 +68,15 @@ FinGeniusAI/
 ## 🌐 Web UI
    - 👉🏻Check Deployed Site: [Live Demo](https://fin-genius-ai.vercel.app/)
    
-   - **Home Page**<br><br>![Main Dashboard](https://github.com/komal2203/acme-spend-categorization/blob/main/ui_images_for_readme/main_dashboard1.png)
-   - **Dashboard - Expenses Visualization**<br><br>![After Running the model](https://github.com/komal2203/acme-spend-categorization/blob/main/ui_images_for_readme/main_dashboard2.png)
-   - **Dashboard - Accounts Overview**<br><br>![Categorised table](https://github.com/komal2203/acme-spend-categorization/blob/main/ui_images_for_readme/categorised_table.png)
-   - **Account - Transactions Overview**<br><br>![Category Distribution Bar Graph](https://github.com/komal2203/acme-spend-categorization/blob/main/ui_images_for_readme/category_distribution_bar_graph.png)
-   - **Account - Transactions Table**<br><br>![ Supplier By Amount Distribution Bar Graph](https://github.com/komal2203/acme-spend-categorization/blob/main/ui_images_for_readme/supplier_amount_distribution.png)
-   - **Add Transaction Form**<br><br>![Supplier Distribution Pie Chart](https://github.com/komal2203/acme-spend-categorization/blob/main/ui_images_for_readme/supplier_distribution_pie_chart.png)
- - **Monthly Report**<br><br>![Supplier Distribution Pie Chart](https://github.com/komal2203/acme-spend-categorization/blob/main/ui_images_for_readme/supplier_distribution_pie_chart.png)
-- **AI Insight Report**<br><br>![Supplier Distribution Pie Chart](https://github.com/komal2203/acme-spend-categorization/blob/main/ui_images_for_readme/supplier_distribution_pie_chart.png)
-   - **Budget Alert**<br><br>![Supplier Distribution Pie Chart](https://github.com/komal2203/acme-spend-categorization/blob/main/ui_images_for_readme/supplier_distribution_pie_chart.png)
+   - **Home Page**<br><br>![Main Dashboard](https://github.com/komal2203/FinGeniusAI/blob/main/ui_images/homepage1.png)
+   - **Dashboard - Expenses Visualization**<br><br>![After Running the model](https://github.com/komal2203/FinGeniusAI/blob/main/ui_images/expenses-visulaization.png)
+   - **Dashboard - Accounts Overview**<br><br>![Categorised table](https://github.com/komal2203/FinGeniusAI/blob/main/ui_images/account-overview.png)
+   - **Account - Transactions Overview**<br><br>![Category Distribution Bar Graph](https://github.com/komal2203/FinGeniusAI/blob/main/ui_images/account-transaction-overview.png)
+   - **Account - Transactions Table**<br><br>![ Supplier By Amount Distribution Bar Graph](https://github.com/komal2203/FinGeniusAI/blob/main/ui_images/account-transaction-table.png)
+   - **Add Transaction Form**<br><br>![Supplier Distribution Pie Chart](https://github.com/komal2203/FinGeniusAI/blob/main/ui_images/add-transaction-form.png)
+   - **Monthly Report**<br><br>![Supplier Distribution Pie Chart](https://github.com/komal2203/FinGeniusAI/blob/main/ui_images/monthly-financial-report.png)
+   - **AI Insight Report**<br><br>![Supplier Distribution Pie Chart](https://github.com/komal2203/FinGeniusAI/blob/main/ui_images/ai-insight-report.png)
+   - **Budget Alert**<br><br>![Supplier Distribution Pie Chart](https://github.com/komal2203/FinGeniusAI/blob/main/ui_images/budget-alert.png)
  
 
 ## 🛡️ License
@@ -95,9 +85,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## 📧 Contact
+## 📬 Let's Connect!
 
-For support or business inquiries, please contact: [your-email@example.com]
+I'm always open to collaborating on exciting projects, sharing ideas, or just chatting tech!
+
+- 🔗 LinkedIn: [linkedin.com/in/komalmeena2203](https://www.linkedin.com/in/komalmeena2203/)
+- 📧 Email: [komalmeena220303@gmail.com](mailto:komalmeena220303@gmail.com)
 
 ---
 
